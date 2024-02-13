@@ -1,0 +1,13 @@
+dydx-v3-python
+ccxt
+google-cloud-bigquery
+db-dtypes
+pandas
+python-dotenv
+apscheduler
+yfinance
+pytest
+
+requests
+numpy
+google

@@ -1,0 +1,9 @@
+__pycache__/
+.env
+*.ipynb
+*.feather
+output
+*warehouse*
+.pytest_cache
+.idea
+.vscode/
